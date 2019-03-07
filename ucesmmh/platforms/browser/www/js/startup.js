@@ -8,3 +8,5 @@ function startup() {
 		trackAndCircle ();
 		}, false);
 	}
+
+getPort()
