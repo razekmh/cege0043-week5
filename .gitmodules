@@ -1,0 +1,9 @@
+[submodule "ucesmmh/www/js"]
+	path = ucesmmh/www/js
+	url = https://github.com/razekmh/cege0043-jsReference
+[submodule "ucesmmh/www/css"]
+	path = ucesmmh/www/css
+	url = https://github.com/razekmh/cege0043-cssReference
+[submodule "ucesmmh/www/images"]
+	path = ucesmmh/www/images
+	url = https://github.com/razekmh/cege0043-imagesReference
