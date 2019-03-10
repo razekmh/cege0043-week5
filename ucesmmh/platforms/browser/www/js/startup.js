@@ -3,7 +3,7 @@ function loadW3HTML() {
 }
 
 function trackAndCircle () {
-	trackLocation();
+	//trackLocation();
 	addPointLinePoly();
 	loadW3HTML();
 }
