@@ -9,7 +9,7 @@ function getPort(){
 		item(0).textContent;
 		httpsPortNumber= doc.getElementsByTagName("node-port-https").
 		item(0).textContent;
-		alert("Port : " + httpPortNumber);
+	//	alert("Port : " + httpPortNumber);
 		});
 	// depending on whether we are in a browser or on a phone
 	// the location of the config file is different
